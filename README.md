@@ -1,16 +1,16 @@
-## Hi there 👋
+# Sami Mustafa
 
-<!--
-**samimustafaminhas-bit/samimustafaminhas-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital marketer focused on paid media, web analytics, CRM and SEO, with a background in hospitality growth.
 
-Here are some ideas to get you started:
+## What I work on
+- Paid media: Google Ads, Meta Ads, LinkedIn Ads
+- Analytics and tracking: GA4, Google Tag Manager, Microsoft Clarity
+- CRM and email: Klaviyo flows and campaigns
+- SEO: keyword research, on-page SEO, schema markup, local SEO
+- Booking platforms: OpenTable, SevenRooms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+Learning how to apply AI tools to marketing workflows and documenting what works.
+
+## Pinned work
+Case studies and templates will appear here once they are cleared for sharing.
